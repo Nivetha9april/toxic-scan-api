@@ -1,0 +1,7 @@
+python-telegram-bot
+google-generativeai
+psycopg2-binary
+boto3
+python-dotenv
+Pillow
+SpeechRecognition
